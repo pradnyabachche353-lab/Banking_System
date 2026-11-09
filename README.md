@@ -67,7 +67,7 @@ The application uses MySQL to store:
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Banking-System.git
+   git clone https:/pradnyabachche353-lab/github.com//Banking-System.git
    ```
 
 2. Open the project in IntelliJ IDEA.
